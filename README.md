@@ -16,15 +16,6 @@ Este projeto implementa um Jogo da Velha (Tic Tac Toe) em JavaScript com foco em
 
 Os testes estão organizados em arquivos separados.
 
-- Como executar
-
-1. Clone o projeto e Instale as dependências
-
-```bash
-npm install
-
----------------------------------------------------
-
 Funcionalidades Testadas
 Jogadas válidas/ inválidas (fazerJogada)
 
@@ -37,4 +28,13 @@ Verificação de vitória (verificarVencedor)
 Verificação de empate (verificarEmpate)
 
 Inicialização correta do jogo (iniciarJogo)
+
+- Como executar
+
+1. Clone o projeto e Instale as dependências
+
+```bash
+npm install
+
+
 
